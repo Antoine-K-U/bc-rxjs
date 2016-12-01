@@ -26,4 +26,11 @@
  - side effects, only in subscribes
  - naming convention: myobervable$
  - Beware Subjects, often misused
- 
+- Scheduler
+- Unit tests
+- Debugging (new of 5.0.0, .do log)
+
+### Autres/Bonus
+- MVI
+- Clojure
+- akka
