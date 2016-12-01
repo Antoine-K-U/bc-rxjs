@@ -13,3 +13,17 @@
 - Syntaxe .subsribe
 - Operators: grouper par catégorie ?
  - map, filter, delay, flatmpap, combineLatest, merge, aggregate, scan, take, retry, buffer, sample
+
+### Advanced
+- Divers: 
+ - Pipeline
+ - no subscribe / no code executed
+ - lazy
+ - Observable immutable
+- Hot/Cold observables (+warm observables) ...
+- Bonnes pratiques
+ - pure functions
+ - side effects, only in subscribes
+ - naming convention: myobervable$
+ - Beware Subjects, often misused
+ 
