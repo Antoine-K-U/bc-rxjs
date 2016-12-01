@@ -29,8 +29,11 @@
 - Scheduler
 - Unit tests
 - Debugging (new of 5.0.0, .do log)
+- Observable are abortbable (vc promises)
 
 ### Autres/Bonus
 - MVI
 - Clojure
 - akka
+
+### Sources/Links
